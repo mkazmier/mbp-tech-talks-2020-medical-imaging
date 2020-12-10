@@ -6,7 +6,7 @@ Code and slides from MBP Tech Talks 2020: Introduction to Medical Image Processi
 
 1. Clone this repository:
 
-`git clone https://github.com/przebieglykaziu/mbp-tech-talks-2020-medical-imaging.git`
+`git clone https://github.com/mkazmier/mbp-tech-talks-2020-medical-imaging.git`
 
 or download zip by selecting *Clone or download -> Download ZIP* above.
 
